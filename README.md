@@ -47,3 +47,5 @@ The following metrics are calculated and analyzed:
 ### Power BI Dashboards
 
 Interactive dashboards are created in Power BI to visualize the analyzed data. These dashboards provide a comprehensive view of the sales performance and can be filtered to drill down into specific aspects of the data.
+
+
