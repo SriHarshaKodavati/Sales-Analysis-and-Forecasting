@@ -5,7 +5,7 @@
 This project focuses on the analysis and visualization of sales data for a retail company. The primary objectives are to:
 
 1. Analyze sales data to uncover trends, patterns, and insights.
-2. Visualize the results using interactive dashboards in Power BI.
+2. Visualize the results using interactive dashboards in Power BI and Excel.
 
 ## Data Description
 
